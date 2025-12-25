@@ -1,0 +1,23 @@
+#yt-live-timestamp-native {
+    /*BoxPos*/
+    display: inline-flex !important;
+    align-self: center !important;
+    justify-content: center;
+    align-items: center;
+    
+    /*Box*/
+    background-color: rgba(0, 0, 0, 0.4); 
+    border-radius: 30px;
+    margin-left: 10px;
+    opacity: 0.9;
+    pointer-events: none;
+    padding: 15px 15px; /* 5px Top/Bottom, 10px Left/Right (5px side + text buffer) */
+    
+    /*Text*/
+    color: #f1f1f1 !important;
+    font-family: "YouTube Noto", Roboto, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+    white-space: nowrap;
+}
