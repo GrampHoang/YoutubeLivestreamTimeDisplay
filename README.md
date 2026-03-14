@@ -4,5 +4,6 @@ It should be next to the Live icon, like this image.
 
 ![Titles](https://github.com/GrampHoang/YoutubeLivestreamTimeDisplay/blob/main/YoutubeLivestreamTimeDisplay/YoutubeLivestreamTimeDisplayScreenshot.png)
 
-
 In case you don't know how to install a Chrome extension, go to Extension -> Enable Developer Mode (top right corner), then Load Unpack and choose the folder that have content.js, manifest.json and style.css
+
+And in case you don't know how to download code, Click on the Green [<> Code] button above, and click [Download ZIP]
